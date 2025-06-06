@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(mkdir:*)",
+      "Bash(rm:*)",
+      "Bash(touch:*)",
+      "Bash(npm run dev:*)",
+      "Bash(npm run build:*)",
+      "Bash(mv:*)",
+      "Bash(node:*)",
+      "Bash(curl:*)",
+      "Bash(mysql:*)",
+      "Bash(chmod:*)",
+      "Bash(./test_doadores_endpoints.sh:*)",
+      "Bash(./test_doacoes_endpoints.sh:*)",
+      "Bash(cat:*)",
+      "Bash(npm run lint)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": []
+  }
+}
